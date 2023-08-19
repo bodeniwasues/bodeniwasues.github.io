@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodeniwasues.github.io/sitemap.xml
